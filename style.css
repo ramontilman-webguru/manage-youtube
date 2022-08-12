@@ -362,6 +362,10 @@ p[data-width="wide"] {
   margin-inline: auto;
 }
 
+.justify-self-end {
+  justify-self: end;
+}
+
 .flow * + * {
   margin-top: var(--flow-spacer, 3em);
 }
